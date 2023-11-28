@@ -1,0 +1,55 @@
+/* Home */
+.Animal {
+  padding: 2em;
+}
+.animalbox{
+  border-style: solid;
+  width: 60em;
+  margin-bottom: 2em;
+  padding: 2em;
+}
+.link {
+  width: 3em;
+  height: 1.5em;
+  background-color: rgb(25, 168, 108);
+  color: white;
+  padding: 1em;
+  border-radius: 8px;
+  text-decoration: none;
+}
+.desc {
+  font-size: 23px;
+  width: 500px;
+}
+
+/* Animal */
+.OneAnimal {
+  padding: 2em;
+}
+
+.Abutton {
+  width: 3em;
+  height: 1.5em;
+  background-color: #00667e;
+  color: white;
+  padding: 1em;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.btn {
+  width: 5em;
+  height: 3.5em;
+  background-color: #00667e;
+  color: white;
+  padding: 1em;
+  border-radius: 8px;
+  border-style: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn:active {
+  background-color: #003d4b;
+  /* box-shadow: 0 5px #313131;
+  transform: translateY(4px); */
+}
